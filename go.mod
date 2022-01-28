@@ -1,4 +1,4 @@
-module github.com/sswastioyono18/go-amqp-reconnect
+module github.com/kitabisa/go-amqp-reconnect
 
 go 1.16
 
